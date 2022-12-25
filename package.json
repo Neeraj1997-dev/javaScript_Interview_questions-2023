@@ -1,0 +1,22 @@
+{
+  "name": "javascript_interview_questions2023",
+  "version": "1.0.0",
+  "description": "Javascript Interview Questions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neeraj1997-dev/javaScript_Interview_questions2023.git"
+  },
+  "keywords": [
+    "Javascript(ES)"
+  ],
+  "author": "NEERAJ KUMAR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Neeraj1997-dev/javaScript_Interview_questions2023/issues"
+  },
+  "homepage": "https://github.com/Neeraj1997-dev/javaScript_Interview_questions2023#readme"
+}
